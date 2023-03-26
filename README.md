@@ -1,3 +1,1 @@
-This is a readme file.
-
-Please read it!
+Developed to learn about writing a website
