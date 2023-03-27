@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://lynneflute.github.io/Flautissimo/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" >
    
-    <p> <i>Flautissimo and Piccolissimo at Romsey bandstand July 2023</i> </p>
+    Flautissimo and Piccolissimo at Romsey bandstand July 2023
     
    </div>
  
@@ -17,6 +17,6 @@ If you are interested in joining us then please contact our secretary for more d
 <div align="center">
     <img src="https://lynneflute.github.io/Flautissimo/westquaymar2023.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" >
    
-    <p> <i>Flautissimo at West Quay, Southampton March 2023</i> </p>
+    Flautissimo at West Quay, Southampton March 2023
         
    </div>
