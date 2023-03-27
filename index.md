@@ -1,9 +1,7 @@
 <div align="center">
-    <img src="https://lynneflute.github.io/Flautissimo/imgs/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" >
-   
-    <p> Flautissimo and Piccolissimo at Romsey bandstand July 2023</p>
-    
-   </div>
+    <img src="https://lynneflute.github.io/Flautissimo/imgs/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" >     
+     Flautissimo and Piccolissimo at Romsey bandstand July 2023
+</div>
  
 Flautissimo is a friendly and welcoming group of flute players of all ages who meet weekly on Fridays in term time at Toynbee School, Chandlers Ford.  
 
@@ -13,10 +11,3 @@ Flautissimo meets from 7-9pm and is for players of Grade 5+ standard.
 We have regular [performances](https://lynneflute.github.io/Flautissimo/performances) in and around the Southampton area.
 
 If you are interested in joining us then please contact our secretary for more details.
-
-<div align="center">
-    <img src="https://lynneflute.github.io/Flautissimo/imgs/westquaymar2023.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" >
-   
-    ##### Flautissimo at West Quay, Southampton March 2023
-        
-   </div>
