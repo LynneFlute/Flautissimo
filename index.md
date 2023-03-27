@@ -4,7 +4,8 @@
  
 Flautissimo is a friendly and welcoming group of flute players of all ages who meet weekly on Fridays in term time at Toynbee School, Chandlers Ford.  
 
-Piccolissimo meets from 6-7pm and is for players from beginner to Grade 5 and "rusty players". 
+Piccolissimo meets from 6-7pm and is for players from beginner to Grade 5 and "rusty players".  
+
 Flautissimo meets from 7-9pm and is for players of Grade 5+ standard.
 
 We have regular [performances](https://lynneflute.github.io/Flautissimo/performances) in and around the Southampton area.
