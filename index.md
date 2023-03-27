@@ -1,8 +1,6 @@
 <div align="center">
     <img src="https://lynneflute.github.io/Flautissimo/imgs/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" > 
-    
-     Flautissimo and Piccolissimo at Romsey bandstand July 2023
-</div>
+        </div>
  
 Flautissimo is a friendly and welcoming group of flute players of all ages who meet weekly on Fridays in term time at Toynbee School, Chandlers Ford.  
 
