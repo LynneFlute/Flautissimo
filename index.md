@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://lynneflute.github.io/Flautissimo/romsey2022.jpg" style = "margin: 2em; border: 1px solid black; padding: 0" >
+    <img src="https://lynneflute.github.io/Flautissimo/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" >
 </div> 
 
    <figcaption>
