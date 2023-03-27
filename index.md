@@ -3,7 +3,7 @@
 
 <figcaption>
  
-###### _Flautissimo and Piccolissimo at Romsey bandstand July 
+###### _Flautissimo and Piccolissimo at Romsey bandstand July 2023_
  
  </figcaption>
  
