@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://lynneflute.github.io/Flautissimo/romsey2022.jpg">
+    <img src="https://lynneflute.github.io/Flautissimo/romsey2022.jpg" style = "margin: 2em; border: 1px solid black" >
+    
    </div> 
    
 ###### _Flautissimo and Piccolissimo at Romsey bandstand July 2023_
