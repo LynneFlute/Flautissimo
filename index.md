@@ -1,8 +1,10 @@
 
 ![A picture of Flautissimo and Piccolissimo on the steps of Romsey bandstand](https://lynneflute.github.io/Flautissimo/romsey2022.jpg "Flautissimo and Piccolissimo at Romsey bandstand July 2022")
 
-# Flautissimo - The Southampton Flute Orchestras
-
+<figcaption>
+###### _Flautissimo and Piccolissimo at Romsey bandstand July 2022_
+ </figcaption>
+ 
 Flautissimo is a friendly and welcoming group of flute players of all ages who meet weekly in term time at Toynbee School, Chandlers Ford.  
 
 Piccolissimo, for players from beginner to Grade 5 and those returning to flute playing, is from 6-7pm.  
