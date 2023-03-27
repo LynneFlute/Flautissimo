@@ -1,7 +1,7 @@
-
+ <p align="center">
+ 
 ![Flautissimo and Piccolissimo at Romsey bandstand July 2022](https://lynneflute.github.io/Flautissimo/romsey2022.jpg "Flautissimo and Piccolissimo at Romsey bandstand July 2022")
 
- <p align="center">
 <figcaption>
  
 ###### _Flautissimo and Piccolissimo at Romsey bandstand July 2023_
