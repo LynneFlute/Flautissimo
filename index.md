@@ -1,5 +1,5 @@
 
-![Alt text](https://lynneflute.github.io/Flautissimo/romsey2022.jpg "Flautissimo at Romsey bandstand July 2022")
+![A picture of Flautissimo and Piccolissimo on the steps of Romsey bandstand](https://lynneflute.github.io/Flautissimo/romsey2022.jpg "Flautissimo and Piccolissimo at Romsey bandstand July 2022")
 
 # Flautissimo - The Southampton Flute Orchestras
 
