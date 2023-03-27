@@ -1,3 +1,6 @@
+
+![Alt text](https://lynneflute.github.io/Flautissimo/romsey2022.jpg "Flautissimo at Romsey bandstand July 2022")
+
 # Flautissimo - The Southampton Flute Orchestras
 
 Flautissimo is a friendly and welcoming group of flute players of all ages who meet weekly in term time at Toynbee School, Chandlers Ford.  
