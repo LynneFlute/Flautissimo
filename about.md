@@ -12,9 +12,9 @@ Both orchestras rehearse in the conference room at Toynbee School, Bodycoats Roa
 
 <div align="center">
     <img src="https://lynneflute.github.io/Flautissimo/imgs/map.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" > 
-    
-           </div>
-           [View in Open Street Map](https://www.openstreetmap.org/#map=16/50.9760/-1.3736)
+  </div>
+  
+[View in Open Street Map](https://www.openstreetmap.org/#map=16/50.9760/-1.3736 )
 
 ## Rehearsal dates for 2022/2023
 
