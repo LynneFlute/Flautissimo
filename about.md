@@ -11,7 +11,7 @@ Piccolissimo rehearses from 6-7pm every Friday in term time and plays a wide ran
 Both orchestras rehearse in the conference room at Toynbee School, Bodycoats Road, Chandler’s Ford, Southampton, Hampshire SO53 2PL.  This is just off Junction 13 of the M3, and Junction 5 of the M27, giving easy access to members from as far afield as Bournemouth, Portsmouth and Winchester.
 
 <div align="center">
-    <img src="https://lynneflute.github.io/Flautissimo/imgs/map.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" > 
+    <img src="https://lynneflute.github.io/Flautissimo/imgs/map.jpg" style = "border: 1px solid black; padding: 0" > 
   </div>
   
 [View in OpenStreetMap](https://www.openstreetmap.org/#map=16/50.9760/-1.3736 )
