@@ -12,7 +12,6 @@ Both orchestras rehearse in the conference room at Toynbee School, Bodycoats Roa
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d9225.441262166618!2d-1.3720676849745432!3d50.97719675683132!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1680013739030!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-Members may also access rehearsals via Zoom. 
 
 ## Rehearsal dates for 2022/2023
 
