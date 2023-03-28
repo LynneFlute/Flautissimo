@@ -16,8 +16,8 @@ Members may also access rehearsals via Zoom.
 
 ## Rehearsal dates for 2022/2023
 
-Mar 2023: 3rd, 10th, 17th, 24th
-Apr 2023: (no rehearsals 1st, 7th, or 14th), 21st, 28th
-May 2023: 5th, 12th, 19th, (no rehearsal 26th)
-Jun 2023: (no rehersal on 2nd), 9th, 16th, 23rd, 30th
-Jul 2023: 7th, 14th
+- Mar 2023: 3rd, 10th, 17th, 24th
+- Apr 2023: (no rehearsals 1st, 7th, or 14th), 21st, 28th
+- May 2023: 5th, 12th, 19th, (no rehearsal 26th)
+- Jun 2023: (no rehersal on 2nd), 9th, 16th, 23rd, 30th
+- Jul 2023: 7th, 14th
