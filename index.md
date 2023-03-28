@@ -10,4 +10,4 @@ Flautissimo meets from 7-9pm and is for players of Grade 5+ standard.
 
 We have regular [performances](https://lynneflute.github.io/Flautissimo/performances) in and around the Southampton area.
 
-If you are interested in joining us then please contact our secretary for more details.
+If you are interested in joining us then please [click here](https://lynneflute.github.io/Flautissimo.about) or <a href="mailto:secretary@flautissimo.com">contact</a> our secretary for more details.
