@@ -1,7 +1,3 @@
-<head>
-    description: About Us
-    </head>
-
 ## Flautissimo
 
 Flautissimo rehearses from 7-9pm every Friday in term time. We play a variety of music from classical to contemporary, including compositions by our two resident composers.  Our instruments range from the contrabass to the piccolo, with Flautissimo owning contrabass, bass and alto flutes, which are played by members.  Membership costs £45 per term.
