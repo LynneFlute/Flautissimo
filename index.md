@@ -1,6 +1,4 @@
-<head>
-<link rel="icon" type="image/x-icon" href="favicon.ico">
-    </head>
+
 <div align="center">
     <img src="https://lynneflute.github.io/Flautissimo/imgs/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" > 
         </div>
