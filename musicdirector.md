@@ -1,7 +1,7 @@
 # Music Director - Joanna Price
 
   <div align="center">
-  <img  src="imgs/jopricex.jpg" alt="Flautissimo MD: Joanna Price"/>
+  <img  src="imgs/jopricex.jpg" alt="Flautissimo MD: Joanna Price" style = "margin: 1em; border: 1px solid black; padding: 0" >
 </div>
 
 
