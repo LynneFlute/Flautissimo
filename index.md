@@ -3,11 +3,13 @@
     <img src="https://lynneflute.github.io/Flautissimo/imgs/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" > 
         </div>
  
-Flautissimo is a friendly and welcoming group of flute players of all ages who rehearse weekly on Fridays in term time with Music Director, <a href="musicdirector"> Joanna Price</a>.  Rehearsals are held at Toynbee School, Chandlers Ford SO53 2PL. Members can also attend rehearsals via Zoom.
+Flautissimo is a friendly and welcoming group of flute players of all ages who rehearse weekly on Fridays in term time at Toynbee School, Chandlers Ford SO53 2PL. Members can also attend rehearsals via Zoom.
 
 Piccolissimo meets from 6-7pm and is for players from beginner to Grade 5 and 'returning' players who want to rediscover the fun of flute playing.  
 
 Flautissimo meets from 7-9pm and is for players of Grade 5+ standard.
+
+Both orchestras are led by Music Director, <a href = "musicdirector"> Joanna Price</a>.
 
 We have regular [performances](https://lynneflute.github.io/Flautissimo/performances) in and around the Southampton area.
 
