@@ -17,7 +17,7 @@ Our next performance is on 13th May, 2023 at the <a href="https://www.visit-hamp
 
 Flautissimo played at Southampton's West Quay shopping centre, a new venue for the orchestra, on Saturday 25 March.  Quite a crowd gathered to listen to us play and seemed to particularly enjoy the Sound of Music medley and Bohemian Rhapsody.
 
-<img src = "/imgs/westquay.png" alt = "Flautissimo playing at West Quay shopping centre" />
+<img src = "/Flautissimo/imgs/westquay.png" alt = "Flautissimo playing at West Quay shopping centre" />
 
 
 
