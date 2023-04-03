@@ -1,5 +1,5 @@
-#Music Director
-##Joanna Price
+# Music Director
+## Joanna Price
 
 <div class="image-right"><img  src="imgs/jopricex.jpg" alt="Flautissimo MD: Joanna Price"/></div>
 
