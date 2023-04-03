@@ -30,6 +30,6 @@ Both orchestras rehearse in the conference room at Toynbee School, Bodycoats Roa
 
 ## Next Peformance
 
-Our next performance is on 13th May, 2023 at the <a href "https://www.visit-hampshire.co.uk/things-to-do/sir-harold-hillier-gardens-p3691">Sir Harold Hillier Gardens</a>.  Flautissimo and Piccolissimo will be playing near the education centre and cafe between 2.30pm and 4pm. 
+Our next performance is on 13th May, 2023 at the <a href="https://www.visit-hampshire.co.uk/things-to-do/sir-harold-hillier-gardens-p3691">Sir Harold Hillier Gardens</a>.  Flautissimo and Piccolissimo will be playing near the education centre and cafe between 2.30pm and 4pm. 
 
 For future performances please <a href = "performances"> click here</a>.
