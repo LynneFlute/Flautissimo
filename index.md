@@ -3,7 +3,7 @@
     <img src="https://lynneflute.github.io/Flautissimo/imgs/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" > 
         </div>
  <p></p>
-<p>Flautissimo is a friendly and welcoming group of flute players of all ages who rehearse weekly on Fridays in term time at Toynbee School, Chandlers Ford SO53 2PL. Members can also attend rehearsals via Zoom.</p>
+<p>Flautissimo is a friendly and welcoming group of flute players of all ages. We rehearse weekly on Fridays in term time at Toynbee School, Chandlers Ford SO53 2PL. Members can also attend rehearsals via Zoom.</p>
 
 <p>Piccolissimo meets from 6-7pm and is for players from beginner to Grade 5 and 'returning' players who want to rediscover the fun of flute playing.  </p>
 
