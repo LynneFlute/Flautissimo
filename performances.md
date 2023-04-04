@@ -5,7 +5,7 @@ Our next performance is on 13th May, 2023 at the <a href="https://www.visit-hamp
 
 ## Future Performances
 
-- 15th July 2023 - Romsey Bandstand.  Flautissimo and Piccolissimo will be playing taking part in Romsey Festival and playing from 2.30 to 4.30pm
+- 15th July 2023 - Romsey Bandstand.  Flautissimo and Piccolissimo will be taking part in Romsey Festival and playing from 2.30 to 4.30pm
 
 - September/October 2023 – Flautissimo will be playing in the afternoon as part of Southampton's Music in the City, details TBC
 
@@ -15,7 +15,7 @@ Our next performance is on 13th May, 2023 at the <a href="https://www.visit-hamp
 
 ## Previous Performances
 
-Flautissimo played at Southampton's West Quay shopping centre, a new venue for the orchestra, on Saturday 25 March.  Quite a crowd gathered to listen to us play and seemed to particularly enjoy the Sound of Music medley and Bohemian Rhapsody.
+On Saturday 25 March, Flautissimo played at Southampton's West Quay shopping centre, a new venue for the orchestra.  Quite a crowd gathered to listen to us play and seemed to particularly enjoy the Sound of Music medley and Bohemian Rhapsody.
 
 <img src = "/Flautissimo/imgs/westquay.png" alt = "Flautissimo playing at West Quay shopping centre" />
 
