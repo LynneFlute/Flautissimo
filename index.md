@@ -1,6 +1,7 @@
 
 <div align="center">
     <img src="https://lynneflute.github.io/Flautissimo/imgs/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" > 
+    <p background-color: blue>Next Performance: Saturday 13 May 2.30-4pm Sir Harold Hillier Gardens</p>
         </div>
  <p></p>
 <p>Flautissimo is a friendly and welcoming group of flute players of all ages. We rehearse weekly on Fridays in term time at Toynbee School, Chandlers Ford SO53 2PL. Members can also attend rehearsals via Zoom.</p>
