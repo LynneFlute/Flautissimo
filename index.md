@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+     <title>Flautissimo - the Southampton Flute Orchestra</title>   
+     <link rel="stylesheet" type="text/css" href="/_layouts/style.css">
+</head>
 
 <div align="center">
     <img src="https://lynneflute.github.io/Flautissimo/imgs/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" > 
