@@ -1,7 +1,7 @@
 <html>
 
 <head>
-     <title>Flautissimo - the Southampton Flute Orchestra</title>   
+     <title>Flautissimo The Southampton Flute Orchestras</title>   
      <link rel="stylesheet" type="text/css" href="/_layouts/style.css">
 </head>
 
