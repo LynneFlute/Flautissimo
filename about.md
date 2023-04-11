@@ -1,3 +1,7 @@
+---
+title: About Flautissimo
+---
+
 ## Flautissimo
 
 Flautissimo rehearses from 7-9pm every Friday in term time. We play a variety of music from classical to contemporary, including compositions by our two resident composers.  Our repertoire uses the full range of flutes and we own contrabass, bass and alto flutes for our members to play.
