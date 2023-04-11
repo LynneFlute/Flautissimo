@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 
 <head>
@@ -23,3 +21,5 @@
 <p>We have regular <a href= "https://lynneflute.github.io/Flautissimo/performances"> performances</a> in and around the Southampton area.</p>
 
 <p>If you are interested in joining us then please <a href="https://lynneflute.github.io/Flautissimo/about"> click here</a> or <a href="mailto:secretary@flautissimo.com">contact</a> our secretary for more details.</p>
+
+</html>
