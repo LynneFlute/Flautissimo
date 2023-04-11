@@ -2,7 +2,7 @@
 
 <head>
      page.title Flautissimo The Southampton Flute Orchestras 
-     <link rel="stylesheet" type="text/css" href="/_layouts/style.css">
+    
 </head>
 
 <div align="center">
