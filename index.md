@@ -1,7 +1,7 @@
+---
+title: My page
+---
 <html>
-<head>
-<title>My title</title>
-</head>
 
 <body>
 <div align="center">
