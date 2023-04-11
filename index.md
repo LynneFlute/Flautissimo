@@ -1,5 +1,9 @@
 <html>
+<head>
+<title>My title</title>
+</head>
 
+<body>
 <div align="center">
     <img src="https://lynneflute.github.io/Flautissimo/imgs/romsey2022.jpg" style = "margin: 1em; border: 1px solid black; padding: 0" > 
 
@@ -17,4 +21,5 @@
 
 <p>If you are interested in joining us then please <a href="https://lynneflute.github.io/Flautissimo/about"> click here</a> or <a href="mailto:secretary@flautissimo.com">contact</a> our secretary for more details.</p>
 
+</body>
 </html>
