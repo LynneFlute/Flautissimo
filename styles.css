@@ -5,6 +5,20 @@ body{
     color: #535353;
 }
 
+a:link, a:visited {
+    
+    color: #303030;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+
 #links{
  font-weight: bold;
  font-variant:small-caps;   
