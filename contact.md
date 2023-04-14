@@ -4,9 +4,9 @@ title: Contact Flautissimo
 
 <html>
 <body>
-## Contact Us
+<h2>Contact Us</h2>
 
-Information coming soon.
+<p>Information coming soon.</p>
 
 
 
