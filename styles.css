@@ -6,8 +6,10 @@ body{
 }
 
 #links{
- color: #303030
-
+ font-weight: bold;
+ font-variant:small-caps;   
+ color: #303030;
+ text-decoration: none;
 }
 
 
