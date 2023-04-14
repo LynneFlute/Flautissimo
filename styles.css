@@ -1,5 +1,9 @@
 /* file for Flautissimo website styling */
 
+header {
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
 
 body{
     color: #535353;
