@@ -1,16 +1,10 @@
 /* file for Flautissimo website styling */
 
-header {
-    padding-top: 35px;
-    padding-bottom: 10px;
-}
-
 body{
     color: #535353;
 }
 
 a:link, a:visited {
-    
     color: #303030;
     padding: 5px 10px;
     text-align: center;
@@ -19,7 +13,7 @@ a:link, a:visited {
   }
   
   a:hover, a:active {
-    background-color: red;
+    color: red;
   }
 
 
@@ -30,4 +24,7 @@ a:link, a:visited {
  text-decoration: none;
 }
 
-
+header {
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
