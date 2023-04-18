@@ -16,6 +16,9 @@ body{
     color: red;
   }
 
+#main_content a:link, #main_content a:visited, #main_content a:hover, #main_content a:active{
+    color: red;
+}
 
 #links{
  font-weight: bold;
