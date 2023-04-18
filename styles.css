@@ -4,7 +4,7 @@ body{
     color: #535353;
 }
 
-a:link, a:visited {
+#links a:link, a:visited {
     color: #303030;
     padding: 0px 10px 0px 10px;
     text-align: center;
@@ -12,7 +12,7 @@ a:link, a:visited {
     display: inline-block;
   }
   
-  a:hover, a:active {
+ #links a:hover, a:active {
     color: red;
   }
 
