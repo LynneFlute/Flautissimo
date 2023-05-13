@@ -4,11 +4,9 @@ title: Flautissimo Performances
 
 ## Next Performance
 
-Our next performance is on Saturday 13 July 2023 at Romsey Bandstand.  Flautissimo and Piccolissimo will be between 2.30pm and 4.30pm as part of the Romsey Festival events.
+Our next performance is on Saturday 13 July 2023 at Romsey Bandstand.  Flautissimo and Piccolissimo will be playing between 2.30pm and 4.30pm as part of the Romsey Festival events.
 
 ## Future Performances
-
-- 15th July 2023 - Romsey Bandstand.  Flautissimo and Piccolissimo will be taking part in Romsey Festival and playing from 2.30 to 4.30pm.
 
 - September/October 2023 – Flautissimo will be playing in the Sunday afternoon concert of Southampton's Music in the City, details TBC.
 
@@ -18,7 +16,7 @@ Our next performance is on Saturday 13 July 2023 at Romsey Bandstand.  Flautissi
 
 ## Previous Performances
 
-- Flautissimo and Piccolissimo enjoyed playing in the summer sunshine at the Sir Harold Hillier Gardens on Saturday 13 May 2023.  We entertained visitors to the garden with a varied programme of music which included The Ash Groove, Single Yellow Line, To a Wild Rose and In The Hall of the Mountain King.  
+- Flautissimo and Piccolissimo enjoyed playing in the summer sunshine at the Sir Harold Hillier Gardens on Saturday 13 May 2023.  We entertained visitors to the gardens with a varied programme of music which included The Ash Groove, Single Yellow Line, To a Wild Rose and In The Hall of the Mountain King.  
 
 - On Saturday 25 March, Flautissimo played at Southampton's West Quay shopping centre, a new venue for the orchestra.  Quite a crowd gathered to listen to us play and seemed to particularly enjoy the Sound of Music medley and Bohemian Rhapsody.
 
